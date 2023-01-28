@@ -81,6 +81,7 @@ p {
     background-color: #2589bd;
 }
 
+/* Replaced each individual benefit section, header, and image class with one class for each due to them being identical. */
 .benefit-section {
     margin-bottom: 32px;
     color: #ffffff;
@@ -97,6 +98,7 @@ p {
     max-width: 150px;
 }
 
+/* Replaced each individual content section, header, and image class with one class for each due to them being identical. */
 .content-section {
     margin-bottom: 20px;
     padding: 50px;

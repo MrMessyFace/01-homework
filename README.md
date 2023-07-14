@@ -16,6 +16,6 @@ To use this page, you can click the links in the nav bar to jump to the sections
 
 ## Credits
 
-Code was originally created via https://github.com/coding-boot-camp/urban-octo-telegram and was updated by me per the requirements of the assignment.
+Code was originally created via [Urban Octo Telegram](https://github.com/coding-boot-camp/urban-octo-telegram) and was updated by me per the requirements of the assignment.
 
 [Repository](https://github.com/MrMessyFace/code-refactor) | [Live App](https://mrmessyface.github.io/code-refactor/)

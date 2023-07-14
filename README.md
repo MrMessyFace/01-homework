@@ -1,4 +1,4 @@
-# Week 1 Homework Challenge
+# Code Refactor
 
 ## Description
 
@@ -12,10 +12,10 @@ I updated the title from "webpage" to something resembling what was on the webpa
 
 To use this page, you can click the links in the nav bar to jump to the sections under the banner image.
 
-![Screenshot](assets/images/mrmessyface.github.io_01-homework_.png)
+![Screenshot](./assets/images/code-refactor-screenshot.jpg)
 
 ## Credits
 
 Code was originally created via https://github.com/coding-boot-camp/urban-octo-telegram and was updated by me per the requirements of the assignment.
 
-https://mrmessyface.github.io/code-refactor/
+[Repository](https://github.com/MrMessyFace/code-refactor) | [Live App](https://mrmessyface.github.io/code-refactor/)

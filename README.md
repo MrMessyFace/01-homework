@@ -12,7 +12,7 @@ No installation necessary.
 
 To use this page, you can click the links in the nav bar to jump to the sections under the banner image.
 
-![Screenshot](./assets/images/code-refactor-screenshot.jpg)
+![Screenshot](./assets/images/code-refactor.jpg)
 
 ## Credits
 

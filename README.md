@@ -12,7 +12,7 @@ No installation necessary but you can clone the [repository](https://github.com/
 
 To use this page, you can click the links in the nav bar to jump to the sections under the banner image.
 
-![Screenshot](./assets/images/code-refactor.jpg)
+![Screenshot](./assets/images/code-refactor-screenshot.jpg)
 
 ## Credits
 
